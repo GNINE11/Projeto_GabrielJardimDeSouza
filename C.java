@@ -14,7 +14,7 @@ public class C{
         C1 = newValueC1;
     }
 
-    public void setA2(int newValueC2){
+    public void setC2(int newValueC2){
         C2 = newValueC2;
     }
 
@@ -24,5 +24,9 @@ public class C{
 
     public void MC2(){
         System.out.println("MC2");
+    }
+
+    public void MC3(){
+        System.out.println("MC3");
     }
 }
